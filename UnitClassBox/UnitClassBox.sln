@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitClassBox", "UnitClassBox\UnitClassBox.csproj", "{EA7BA8FA-99A8-4795-8517-09947CFE8317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBox", "..\UnitTestBox\UnitTestBox\UnitTestBox.csproj", "{5922E803-C8A3-414E-A553-A23010ADD077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7BA8FA-99A8-4795-8517-09947CFE8317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7BA8FA-99A8-4795-8517-09947CFE8317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7BA8FA-99A8-4795-8517-09947CFE8317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7BA8FA-99A8-4795-8517-09947CFE8317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5922E803-C8A3-414E-A553-A23010ADD077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5922E803-C8A3-414E-A553-A23010ADD077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5922E803-C8A3-414E-A553-A23010ADD077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5922E803-C8A3-414E-A553-A23010ADD077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
